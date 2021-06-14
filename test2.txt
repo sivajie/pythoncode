@@ -1,4 +1,6 @@
 #testing different rep
-#switching to differ branch and push change
+#switching to differ branch and push
+Remote changes
 #switched to different branch and used set upstream command
 remote changes 456
+master
